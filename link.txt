@@ -1,0 +1,2 @@
+Link Colab: https://colab.research.google.com/drive/1qawEEKRmtTv1dxKmqdSe-86aqsMtkw9h?authuser=1#scrollTo=pRMTW5AwIBCi
+Link Firebase: https://console.firebase.google.com/u/1/project/api-c8c52/database/api-c8c52-default-rtdb/data
