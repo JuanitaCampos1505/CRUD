@@ -1,0 +1,76 @@
+{
+  "API_distribuidos": {
+    "datos_post": {
+      "-NGI0U3E0Zq41lotPTcP": {
+        "Apellido": "Diaz",
+        "Direccion": "apartamento 308",
+        "Nombre": "Monica",
+        "Telefono": "3144905684",
+        "id": "1"
+      },
+      "-NGI15b2v8Fqw4wlglfT": {
+        "Apellido": "Romero",
+        "Direccion": "apartamento 401",
+        "Nombre": "Orlando",
+        "Telefono": "3102561547",
+        "id": "2"
+      },
+      "-NGI3ZHXzVsBeofFgNxx": {
+        "Apellido": "Cuervo",
+        "Direccion": "apartamento 506",
+        "Nombre": "Juliana",
+        "Telefono": "3134568989",
+        "id": "3"
+      },
+      "-NGI3f5fDw_OVvVh3VhQ": {
+        "Apellido": "Farfan",
+        "Direccion": "apartamento 202",
+        "Nombre": "Nidia",
+        "Telefono": "3184521213",
+        "id": "4"
+      },
+      "-NGI3mWaxvVM9f_l3xYe": {
+        "Apellido": "Vargas",
+        "Direccion": "apartamento 103",
+        "Nombre": "Rosalba",
+        "Telefono": "314121516",
+        "id": "5"
+      },
+      "-NGI3v8XmDXD22uX5tBX": {
+        "Apellido": "Gomez",
+        "Direccion": "apartamento 303",
+        "Nombre": "Miguel",
+        "Telefono": "3154789850",
+        "id": "6"
+      },
+      "-NGI4NfDlYOejExUDwQG": {
+        "Apellido": "Aguirre",
+        "Direccion": "apartamento 508",
+        "Nombre": "Carlos",
+        "Telefono": "3124566545",
+        "id": "7"
+      },
+      "-NGI4YOW267HNUNTIqdZ": {
+        "Apellido": "Bolivar",
+        "Direccion": "apartamento 302",
+        "Nombre": "Rafaela",
+        "Telefono": "3124789823",
+        "id": "8"
+      },
+      "-NGI4n_btbFFRIaUzU1H": {
+        "Apellido": "Rodriguez",
+        "Direccion": "apartamento 601",
+        "Nombre": "Nubia",
+        "Telefono": "3121235236",
+        "id": "9"
+      },
+      "-NGI5-0DXkaNiIGxOevq": {
+        "Apellido": "Rubio",
+        "Direccion": "apartamento 101",
+        "Nombre": "Dora",
+        "Telefono": "3168569669",
+        "id": "10"
+      }
+    }
+  }
+}
